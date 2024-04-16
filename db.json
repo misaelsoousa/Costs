@@ -10,23 +10,56 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "471d",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "meu projeto",
+      "budget": "10000",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "820d",
+      "name": "meu projeto",
+      "budget": "12222",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1478",
+      "name": "Misael",
+      "budget": "2222",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Infra"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Design"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Planejamento"
     }
   ]
